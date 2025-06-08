@@ -1,0 +1,16 @@
+hand_writing_recognition_wbh_lgq\network_data.o: ../X-CUBE-AI/App/network_data.c
+hand_writing_recognition_wbh_lgq\network_data.o: ../X-CUBE-AI/App/network_data.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../X-CUBE-AI/App/network_config.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../X-CUBE-AI/App/network_data_params.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../Middlewares/ST/AI/Inc/ai_platform.h
+hand_writing_recognition_wbh_lgq\network_data.o: D:\Applications\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hand_writing_recognition_wbh_lgq\network_data.o: D:\Applications\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+hand_writing_recognition_wbh_lgq\network_data.o: D:\Applications\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+hand_writing_recognition_wbh_lgq\network_data.o: D:\Applications\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../Middlewares/ST/AI/Inc/ai_platform_interface.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../Middlewares/ST/AI/Inc/datatypes_network.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes.h
+hand_writing_recognition_wbh_lgq\network_data.o: D:\Applications\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes_format.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../Middlewares/ST/AI/Inc/ai_datatypes_defines.h
+hand_writing_recognition_wbh_lgq\network_data.o: ../Middlewares/ST/AI/Inc/formats_list.h

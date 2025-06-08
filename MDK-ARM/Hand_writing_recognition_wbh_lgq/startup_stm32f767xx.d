@@ -1,0 +1,1 @@
+hand_writing_recognition_wbh_lgq\startup_stm32f767xx.o: startup_stm32f767xx.s
