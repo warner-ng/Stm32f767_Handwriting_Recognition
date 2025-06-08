@@ -7,6 +7,11 @@ To run the program, simply
 ---
 ## Demo
 ![image](https://github.com/user-attachments/assets/1757d0dd-52f8-494a-86b9-da7886203c09)
+
+video
+https://github.com/user-attachments/assets/92ee6014-6134-4265-bfa0-37387c946ebd
+
+
 ---
 ## Blogs while debugging
 You may refer to https://kdocs.cn/l/cqLbod8Ixyry at Chapter 25 for tutorials and debug logs
