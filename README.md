@@ -11,7 +11,12 @@ To run the program, simply
 video
 https://github.com/user-attachments/assets/92ee6014-6134-4265-bfa0-37387c946ebd
 
+---
+## Coursework report 
+[嵌入式大作业课题报告 吴秉寰 刘贯桥.pdf](https://github.com/user-attachments/files/20656521/default.pdf)
 
 ---
 ## Blogs while debugging
 You may refer to https://kdocs.cn/l/cqLbod8Ixyry at Chapter 25 for tutorials and debug logs
+
+
