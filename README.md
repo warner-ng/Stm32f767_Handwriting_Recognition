@@ -17,6 +17,6 @@ https://github.com/user-attachments/assets/92ee6014-6134-4265-bfa0-37387c946ebd
 
 ---
 ## Blogs while debugging
-You may refer to https://kdocs.cn/l/cqLbod8Ixyry at Chapter 25 for tutorials and debug logs
+You may refer to [https://kdocs.cn/l/cqLbod8Ixyry](https://kdocs.cn/l/cqLbod8Ixyry?linkname=savB6VOwcb) at Chapter 25 for tutorials and debug logs
 
 
